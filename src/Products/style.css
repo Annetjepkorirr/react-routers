@@ -1,0 +1,26 @@
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+    .lists{
+        text-align: center;
+        font-size: 30px;
+    }
+    .img{
+      width: 250px;
+      object-fit: cover;
+      height: 200px;
+      margin: 80px;
+      text-align: center;
+      
+    }
+   
+    .description{
+      color: black;
+    }
+    .placecolor{
+    gap: 50%;
+    }
+   
+    

@@ -1,0 +1,14 @@
+.navItems ul a{
+    text-decoration: none;
+    margin: 10px;
+    color: white;
+   
+
+    
+}
+.navItems{
+    background-color: orange;
+    height: 70px;
+    margin-top: -12px;
+
+}

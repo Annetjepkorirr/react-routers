@@ -1,0 +1,24 @@
+.button1{
+    padding: 10px 40px;
+    background-color: orange;
+    border-color: orange;
+    color: white;
+    font-size: 18px;
+    border-radius: 5px;
+}
+.forms{
+    margin-left: 450px;
+    border: solid 1px;
+    text-align: center;
+    width: 400px;
+    padding: 10px;
+    margin-top: 50px;
+}
+.user{
+    padding: 10px 60px;
+    border-radius: 5px;
+}
+.user1{
+    padding: 10px 60px;
+    border-radius: 5px;
+}

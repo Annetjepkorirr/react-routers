@@ -1,7 +1,6 @@
 .images{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
     }
     .lists{
         text-align: center;
@@ -16,11 +15,15 @@
       
     }
    
-    .description{
-      color: black;
-    }
+    
     .placecolor{
-    gap: 50%;
+    background-color: blueviolet;
+    width: 350px;   
+    border-radius: 10px;
+    text-align: center;
+   margin: 20PX;
+   padding: 25px;
+  
     }
    
     

@@ -16,7 +16,7 @@ const Product=()=>{
             setProducts(result.products)
             setLoading(false)
         }
-        catch(error){
+          catch(error){
             console.log(error.message);
         }
     }
@@ -33,7 +33,7 @@ const Product=()=>{
                 <div key={item.id} className = "placecolor" >
                     <img className="img" src= {item.thumbnail}/>
                     <h3>{item.title}</h3>
-                    <p className="description" >{item.description}</p>
+                    {/* <p className="description" >{item.description}</p> */}
                     <h3 className="price">{item.price}</h3>
 
                     <p className="discount">{item.discountPercentage}</p>

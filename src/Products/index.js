@@ -39,7 +39,6 @@ const Product=()=>{
                     <p className="discount">{item.discountPercentage}</p>
 
 
-
                     </div>
                     
             ))}
